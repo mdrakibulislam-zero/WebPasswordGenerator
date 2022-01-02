@@ -1,5 +1,5 @@
 ## Web Password Generator:
-This is a simple random password generator based on Web which made with HTML, CSS and JavaScript. It's able to generate very strong passwords.
+This is a simple random password generator based on Web which made with HTML, CSS and JavaScript. It's able to generate very strong passwords with 4-32 characters.
 
 
 ## Outcome:
@@ -9,7 +9,7 @@ src="https://github.com/mdrakibulislam-zero/WebPasswordGenerator/blob/main/Outco
 
 
 ## What Have I Done:
-I've made this random password generator using HTML, CSS and JavaScript. I've used the CDN of font-awesome 5.15.4 from CDNJS for use the icons.
+I've made this simple random password generator using HTML, CSS and JavaScript. I've used the CDN of font-awesome 5.15.4 from CDNJS for use the icons.
 
 A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.
 
@@ -25,8 +25,8 @@ Font Awesome is a font and icon toolkit based on CSS and Less. As of 2020, Font 
 ## Usage:
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
-- You're done! Enjoy the random password generator.
-- You also can use the random password generator online by using this <a href="https://mdrakibulislam-zero.github.io/WebPasswordGenerator/" > link</a>.
+- You're done! Enjoy the password generator.
+- You also can use the password generator online by using this <a href="https://mdrakibulislam-zero.github.io/WebPasswordGenerator/" > link</a>.
 
 
 ## Tutorial:
